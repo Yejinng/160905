@@ -27,7 +27,14 @@ public class ConstantTest {
 		System.out.println(Const_Number);
 		System.out.println(Const_Number);
 		System.out.println(Const_Number);
-		
+		System.out.println(Const_Number);
+		System.out.println(Const_Number);
+		System.out.println(Const_Number);
+		System.out.println(Const_Number);
+		System.out.println(Const_Number);
+		System.out.println(Const_Number);
+		System.out.println(Const_Number);
+		System.out.println(Const_Number);	
 
 //		double PI =3.1418;
 //		double a1 = PI * r1* r1;
